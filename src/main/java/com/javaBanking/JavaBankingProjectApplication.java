@@ -15,5 +15,7 @@ static int b = 10;
 		System.out.println(a);
 		System.out.println(b);
 	}
-
+public static void hello() {
+	System.out.println("helll world");
+}
 }
