@@ -15,5 +15,8 @@ static int b = 10;
 		System.out.println(a);
 		System.out.println(b);
 	}
+public static void world() {
+	System.out.println("helll world");
+}
 
 }
