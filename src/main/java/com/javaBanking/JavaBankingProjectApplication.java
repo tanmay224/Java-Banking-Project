@@ -18,4 +18,7 @@ static int b = 10;
 public static void hello() {
 	System.out.println("helll world");
 }
+	public static void system() {
+	System.out.println("system world");
+}
 }
