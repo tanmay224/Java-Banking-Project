@@ -21,7 +21,7 @@ public static void hello() {
 	public static void system() {
 	System.out.println("system world");
 }
-	public static void print(){
-System.out.println("print ");
+	public static void hero(){
+System.out.println("hero ");
 	}
 }
